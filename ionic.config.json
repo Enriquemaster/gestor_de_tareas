@@ -1,0 +1,7 @@
+{
+  "name": "Gestión-de-tareas",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
